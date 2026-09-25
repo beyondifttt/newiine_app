@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Round" rel="stylesheet">
-<link rel="stylesheet" href="https://matsusan.minim.ne.jp/newiine_app/newiine.css">
+<link rel="stylesheet" href="https://github.com/beyondifttt/newiine_app/blob/main/newiine.css">
 <style>
   html, body {
     margin: 0;
